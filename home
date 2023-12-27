@@ -12,6 +12,8 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
 #EXTINF:-1,MRT3
 https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyMyA5OjI3OjM1IEFNJmhhc2hfdmFsdWU9TnNRMCtWelNKT1JaMUV0c21Ud1N1dz09JnZhbGlkbWludXRlcz0zMCZpZD02NThiZWUwNzNmNWJl
+#EXTINF:-1,MRT4
+https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8
 #EXTINF:-1,TV 24
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
 #EXTINF:-1,TV 21
